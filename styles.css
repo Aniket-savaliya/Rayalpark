@@ -224,6 +224,7 @@ nav {
   font-size: 0.9rem;
   outline: none;
   border: none;
+  font-family: "Poppins", sans-serif;
 }
 
 .input__group input::placeholder {
@@ -474,6 +475,10 @@ nav {
 
 .footer__col .section__description {
   margin-block: 2rem;
+}
+
+.footer__col{
+  margin-top: 2rem;
 }
 
 .footer__col h4 {

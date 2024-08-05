@@ -33,7 +33,7 @@ ScrollReveal().reveal(".header__container h1", {
 // about container
 ScrollReveal().reveal(".about__image img", {
   ...scrollRevealOption,
-  origin: "left",
+  origin: "right",
 });
 
 ScrollReveal().reveal(".about__content .section__subheader", {
